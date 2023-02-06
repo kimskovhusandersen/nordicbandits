@@ -5,6 +5,7 @@ export function Index() {
     <div className="p-3">
       <div className="bg-red-300 prose">
         <h1>Welcome big-raccoon</h1>
+        <caption>this is great!</caption>
         <TopicButton />
       </div>
     </div>
